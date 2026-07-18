@@ -5,27 +5,27 @@ This project demonstrates an end-to-end data analytics solution built using Micr
 Note: The Power BI dashboard is currently under development and will be added soon.
 
 CSV Files
-      │
-      ▼
+   │
+   ▼
 Lakehouse (Files)
-      │
-      ▼
+   │
+   ▼
 Pipeline
-      │
-      ▼
+   │
+   ▼
 Bronze Layer
-      │
-      ▼
+   │
+   ▼
 Dataflow Gen2
 (Data Cleaning & Transformation)
-      │
-      ▼
+   │
+   ▼
 Warehouse (Gold Layer)
-      │
-      ▼
+   │
+   ▼
 Semantic Model
-      │
-      ▼
+   │
+   ▼
 Power BI Dashboard
 
 
